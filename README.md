@@ -10,15 +10,15 @@ Private Ai Chat (local) Model with Ollama in Python with Flask
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-### Run Flask GPT
+### Run & Install 
 
 ```bash
-git clone https://github.com/Pymmdrza/FlaskGPT
-cd FlaskGPT
-pip install -r requirements.txt
+git clone https://github.com/xLLMA/zetta
+cd zetta
+chmod +x install.sh&&./install.sh
 ```
 
-### Linux
+### Linux Virtualenv
 
 ```bash
 # create env
